@@ -1,4 +1,4 @@
-# Bank-
+# Bank-Notes
 
 #include<stdio.h>
 int main()
